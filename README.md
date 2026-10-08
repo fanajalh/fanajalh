@@ -69,50 +69,40 @@ Cinematic photography, visual media, minimalist hardware setups, and continuous 
 <br>
 
 <!-- ==================== CONNECT / SOCIAL MATRIX ==================== -->
-<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-collapse: collapse;">
-  <tr align="center" style="font-family: monospace; font-size: 13px; color: #8b949e;">
-    <th width="8%">#</th>
-    <th width="15%"><b>Linkedin</b></th>
-    <th width="15%"><b>X (Twitter)</b></th>
-    <th width="15%"><b>Gmail</b></th>
-    <th width="15%"><b>Website</b></th>
-    <th width="16%"><b>Instagram</b></th>
-    <th width="16%"><b>GitHub</b></th>
-    <th width="8%">#</th>
+<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-collapse: collapse; border-radius: 6px;">
+  <tr align="center" style="font-family: monospace; font-size: 13px; color: #8b949e; height: 38px;">
+    <th width="20%"><b>LinkedIn</b></th>
+    <th width="20%"><b>GitHub</b></th>
+    <th width="20%"><b>Instagram</b></th>
+    <th width="20%"><b>X (Twitter)</b></th>
+    <th width="20%"><b>Gmail</b></th>
   </tr>
-  <tr align="center" style="height: 64px;">
-    <td><img src="assets/pixel-bar.svg" width="22" height="12" /></td>
+  <tr align="center" style="height: 68px;">
     <td>
       <a href="https://linkedin.com/in/fanajalh" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" />
-      </a>
-    </td>
-    <td>
-      <a href="https://twitter.com/fanajalh" target="_blank">
-        <img src="https://raw.githubusercontent.com/fa-b/fa-b/main/assets/icons/x.svg" width="30" height="30" alt="X" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:emailkamu@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" height="30" alt="Gmail" />
-      </a>
-    </td>
-    <td>
-      <a href="https://fanajalh.github.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/fa-b/fa-b/main/assets/icons/globe.svg" width="30" height="30" alt="Website" />
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/fanajalh" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram" />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" />
       </a>
     </td>
     <td>
       <a href="https://github.com/fanajalh" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" height="30" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
       </a>
     </td>
-    <td><img src="assets/pixel-bar.svg" width="22" height="12" /></td>
+    <td>
+      <a href="https://instagram.com/fanajalh" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="36" height="36" alt="Instagram" />
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/fanajalh" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" width="36" height="36" alt="X" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:emailkamu@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Gmail" />
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -146,14 +136,11 @@ Cinematic photography, visual media, minimalist hardware setups, and continuous 
 
 <br>
 
-<!-- ==================== 3D ISOMETRIC CONTRIBUTION GRAPH ==================== -->
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=fanajalh&theme=green" width="100%" alt="3D Isometric GitHub Contribution Graph" />
-</div>
-
-<br>
-
 <!-- ==================== SKILL SET GRID ==================== -->
+<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-radius: 6px; padding: 18px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+<tr>
+<td>
+
 <table border="0" width="100%">
   <tr>
     <td align="left"><h3>SKILL SET</h3></td>
@@ -163,32 +150,36 @@ Cinematic photography, visual media, minimalist hardware setups, and continuous 
 
 <div align="center">
 
-<table border="0" style="margin-top: 10px;">
+<table border="0" style="margin-top: 14px;">
   <!-- Row 1: Frontend Core -->
   <tr align="center">
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=html" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>HTML</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=css" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>CSS</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=js" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>JS</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=ts" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>TypeScript</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=react" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>React</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=tailwind" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Tailwind</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=bootstrap" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Bootstrap</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=sass" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Sass</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=html" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>HTML</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=css" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>CSS</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=js" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>JS</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=ts" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>TypeScript</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=react" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>React</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=tailwind" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Tailwind</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=bootstrap" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Bootstrap</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=sass" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Sass</b></sub></td>
   </tr>
   <!-- Row 2: Backend & Tools -->
   <tr align="center">
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=php" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>PHP</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=laravel" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Laravel</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=mysql" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>MySQL</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=vite" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Vite</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=git" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Git</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=github" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>GitHub</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=vscode" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>VS Code</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=figma" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Figma</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=php" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>PHP</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=laravel" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Laravel</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=mysql" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>MySQL</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=vite" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Vite</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=git" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Git</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=github" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>GitHub</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=vscode" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>VS Code</b></sub></td>
+    <td width="76" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=figma" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Figma</b></sub></td>
   </tr>
 </table>
 
 </div>
+
+</td>
+</tr>
+</table>
 
 <br>
 
