@@ -1,19 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 18" width="320" height="18">
-  <rect x="0" y="2" width="14" height="14" fill="#238636" rx="2" />
-  <rect x="18" y="2" width="14" height="14" fill="#3fb950" rx="2" />
+  <defs>
+    <style>
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+      .p1 { animation: pulse 1.6s ease-in-out infinite 0.1s; }
+      .p2 { animation: pulse 1.6s ease-in-out infinite 0.3s; }
+      .p3 { animation: pulse 1.6s ease-in-out infinite 0.5s; }
+      .p4 { animation: pulse 1.6s ease-in-out infinite 0.7s; }
+      .p5 { animation: pulse 1.6s ease-in-out infinite 0.9s; }
+      .p6 { animation: pulse 1.6s ease-in-out infinite 1.1s; }
+      .p7 { animation: pulse 1.6s ease-in-out infinite 1.3s; }
+    </style>
+  </defs>
+  <rect x="0" y="2" width="14" height="14" fill="#238636" rx="2" class="p1" />
+  <rect x="18" y="2" width="14" height="14" fill="#3fb950" rx="2" class="p2" />
   <rect x="36" y="2" width="14" height="14" fill="#161b22" rx="2" />
-  <rect x="54" y="2" width="14" height="14" fill="#2ea043" rx="2" />
+  <rect x="54" y="2" width="14" height="14" fill="#2ea043" rx="2" class="p3" />
   <rect x="72" y="2" width="14" height="14" fill="#0e4429" rx="2" />
-  <rect x="90" y="2" width="14" height="14" fill="#3fb950" rx="2" />
+  <rect x="90" y="2" width="14" height="14" fill="#3fb950" rx="2" class="p4" />
   <rect x="108" y="2" width="14" height="14" fill="#161b22" rx="2" />
-  <rect x="126" y="2" width="14" height="14" fill="#FFCBA4" rx="2" />
-  <rect x="144" y="2" width="14" height="14" fill="#238636" rx="2" />
+  <rect x="126" y="2" width="14" height="14" fill="#56d364" rx="2" class="p5" />
+  <rect x="144" y="2" width="14" height="14" fill="#238636" rx="2" class="p6" />
   <rect x="162" y="2" width="14" height="14" fill="#161b22" rx="2" />
-  <rect x="180" y="2" width="24" height="14" fill="#e6edf3" rx="2" />
-  <rect x="208" y="2" width="14" height="14" fill="#3fb950" rx="2" />
+  <rect x="180" y="2" width="24" height="14" fill="#e6edf3" rx="2" class="p7" />
+  <rect x="208" y="2" width="14" height="14" fill="#3fb950" rx="2" class="p1" />
   <rect x="226" y="2" width="14" height="14" fill="#161b22" rx="2" />
-  <rect x="244" y="2" width="14" height="14" fill="#2ea043" rx="2" />
+  <rect x="244" y="2" width="14" height="14" fill="#2ea043" rx="2" class="p2" />
   <rect x="262" y="2" width="14" height="14" fill="#0e4429" rx="2" />
-  <rect x="280" y="2" width="14" height="14" fill="#FFCBA4" rx="2" />
-  <rect x="298" y="2" width="14" height="14" fill="#3fb950" rx="2" />
+  <rect x="280" y="2" width="14" height="14" fill="#56d364" rx="2" class="p4" />
+  <rect x="298" y="2" width="14" height="14" fill="#3fb950" rx="2" class="p5" />
 </svg>

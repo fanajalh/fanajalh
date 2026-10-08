@@ -3,6 +3,11 @@
   <!-- ==================== HEADER BANNER ==================== -->
   <img src="assets/header.svg" width="100%" alt="FACHRI ARFAN - JUNIOR FRONTEND DEVELOPER" />
 
+  <br>
+
+  <!-- Animated Dynamic Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=%3E+Junior+Frontend+Developer;%3E+Crafting+Clean%2C+Modern+%26+Responsive+Interfaces;%3E+React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS+%E2%80%A2+Laravel" alt="Typing Animation" />
+
 </div>
 
 <br>
