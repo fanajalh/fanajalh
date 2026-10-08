@@ -1,180 +1,86 @@
 <div align="center">
 
-  <!-- ==================== HEADER BANNER ==================== -->
-  <img src="assets/header.svg" width="100%" alt="FACHRI ARFAN - FULLSTACK WEB DEVELOPER / CREATIVE TECHNOLOGIST" />
+# Hey, I'm Fachri 👋
+
+**Fullstack Web Developer** · Purwokerto, Indonesia
+
+I build modern web applications that solve real problems.  
+Passionate about clean engineering, creative media, and making technology work for people.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fanajalh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/fanajalh)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/fanajalh)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
+[![Website](https://img.shields.io/badge/Website-FFCBA4?style=flat&logo=safari&logoColor=333)](https://fanajalh.github.io)
 
 </div>
 
-<br>
+---
 
-<!-- ==================== ABOUT & MANIFESTO BOX ==================== -->
-<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-radius: 6px; padding: 18px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-<tr>
-<td>
+### 🧑‍💻 About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>WHO I AM</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="220" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
+- 🔭 Currently building web apps with **Laravel** & **React**
+- 🌱 Exploring scalable architecture & modern frontend patterns
+- 🎯 Goal: build tools that genuinely work for humans
+- 📷 Beyond code: cinematic photography, minimalist tech, mechanical tinkering
 
-<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace;">
-Hey, I'm <b>Fachri</b> — a Purwokerto-based engineer passionate about building web apps and digital systems that simplify people's lives. I work at the intersection of modern frontend, scalable Laravel backends, and creative media systems, and I write about what I build and learn along the way.
-</p>
+---
 
-<br>
+### 🛠 Tech Stack
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>WHAT I DO</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="220" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
+**Languages**
 
-<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace;">
-I build software and modern web applications that solve real problems — and I can't stop. Obsessed with turning ideas into high-performance products and understanding everything from first principles.
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-<br>
+**Frameworks & Libraries**
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>VISION</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="220" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=333)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace;">
-My goal is to help people and push technology further ahead than it was yesterday. I want to build tools that genuinely work for humans — not the other way around. Humanity first, clean engineering always.
-</p>
+**Tools & Platforms**
 
-<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>BEYOND CODE</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="220" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
+**Databases**
 
-<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace;">
-Cinematic media &amp; photography, mechanical tinkering, minimalist tech, and thinking differently — that's me outside of code.
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-</td>
-</tr>
-</table>
+---
 
-<br>
-
-<!-- ==================== CONNECT / SOCIAL MATRIX ==================== -->
-<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-collapse: collapse;">
-  <tr align="center" style="font-family: monospace; font-size: 13px; color: #8b949e;">
-    <th width="8%">👾</th>
-    <th width="15%"><b>Linkedin</b></th>
-    <th width="15%"><b>X (Twitter)</b></th>
-    <th width="15%"><b>Gmail</b></th>
-    <th width="15%"><b>Website</b></th>
-    <th width="16%"><b>Instagram</b></th>
-    <th width="16%"><b>GitHub</b></th>
-    <th width="8%">👾</th>
-  </tr>
-  <tr align="center" style="height: 64px;">
-    <td><img src="assets/pixel-bar.svg" width="22" height="12" /></td>
-    <td>
-      <a href="https://linkedin.com/in/fanajalh" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" />
-      </a>
-    </td>
-    <td>
-      <a href="https://twitter.com/fanajalh" target="_blank">
-        <img src="https://raw.githubusercontent.com/fa-b/fa-b/main/assets/icons/x.svg" width="30" height="30" alt="X" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:emailkamu@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="30" height="30" alt="Gmail" />
-      </a>
-    </td>
-    <td>
-      <a href="https://fanajalh.github.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/fa-b/fa-b/main/assets/icons/globe.svg" width="30" height="30" alt="Website" />
-      </a>
-    </td>
-    <td>
-      <a href="https://instagram.com/fanajalh" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/fanajalh" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" height="30" alt="GitHub" />
-      </a>
-    </td>
-    <td><img src="assets/pixel-bar.svg" width="22" height="12" /></td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ==================== 3D ISOMETRIC CONTRIBUTION GRAPH ==================== -->
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=fanajalh&theme=green" width="100%" alt="3D Isometric GitHub Contribution Graph" />
-</div>
-
-<br>
-
-<!-- ==================== SKILL SET GRID ==================== -->
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>SKILL SET</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="280" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
+### 📊 GitHub Stats
 
 <div align="center">
 
-<table border="0" style="margin-top: 10px;">
-  <!-- Row 1 -->
-  <tr align="center">
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=html" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>HTML</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=css" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>CSS</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=js" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>JS</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=ts" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>TypeScript</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=php" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>PHP</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=laravel" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Laravel</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=react" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>React</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=tailwind" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Tailwind</b></sub></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr align="center">
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=mysql" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>MySQL</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=postgres" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Postgres</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=nodejs" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Node.js</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=vite" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Vite</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=git" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Git</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=github" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>GitHub</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=vscode" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>VS Code</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=postman" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Postman</b></sub></td>
-  </tr>
-  <!-- Row 3 -->
-  <tr align="center">
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=figma" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Figma</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=bootstrap" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Bootstrap</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=linux" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Linux</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=arduino" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>IoT</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=npm" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>NPM</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=sass" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Sass</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=bash" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Bash</b></sub></td>
-    <td width="72" style="padding: 10px 4px;"><img src="https://skillicons.dev/icons?i=vercel" width="46" /><br><sub style="color: #c9d1d9; font-family: monospace;"><b>Vercel</b></sub></td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=fanajalh&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFCBA4&icon_color=FFCBA4&text_color=c9d1d9&ring_color=FFCBA4" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanajalh&layout=compact&hide_border=true&bg_color=00000000&title_color=FFCBA4&text_color=c9d1d9" height="165" alt="Top Languages" />
 
 </div>
 
-<br>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fanajalh&hide_border=true&background=00000000&ring=FFCBA4&fire=FFCBA4&currStreakLabel=FFCBA4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+
+</div>
+
+---
 
 <div align="center">
-  <sub>⚡ Designed &amp; Crafted with Terminal Brutalist Aesthetic by <b>Muhammad Fachri Arfan</b></sub>
+  <sub>Crafted with care by <b>Muhammad Fachri Arfan</b></sub>
 </div>
