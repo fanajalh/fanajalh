@@ -8,57 +8,31 @@
 <br>
 
 <!-- ==================== ABOUT & PROFILE BOX ==================== -->
-<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-radius: 6px; padding: 18px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-radius: 6px; padding: 20px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 <tr>
 <td>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>WHO I AM</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="220" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
+<img src="assets/title-who-i-am.svg" width="100%" alt="WHO I AM" />
 
-<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace;">
+<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace; margin: 10px 0 20px 0;">
 Hey, I'm <b>Fachri</b> — a Purwokerto-based <b>Junior Frontend Developer</b> passionate about building clean, responsive web applications and crafting intuitive user interfaces. I focus on turning ideas and designs into pixel-perfect code with modern web standards.
 </p>
 
-<br>
+<img src="assets/title-what-i-do.svg" width="100%" alt="WHAT I DO" />
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>WHAT I DO</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="220" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
-
-<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace;">
+<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace; margin: 10px 0 20px 0;">
 I specialize in frontend technologies including <b>React</b>, <b>JavaScript</b>, and <b>Tailwind CSS</b>, alongside fullstack integration with <b>Laravel</b>. Continuously learning modern state management, component architecture, and responsive web practices.
 </p>
 
-<br>
+<img src="assets/title-vision.svg" width="100%" alt="VISION" />
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>VISION</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="220" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
-
-<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace;">
+<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace; margin: 10px 0 20px 0;">
 My goal is to build accessible, smooth, and human-first web experiences. Clean code, responsive layouts, and thoughtful design details that make software a joy to use.
 </p>
 
-<br>
+<img src="assets/title-beyond-code.svg" width="100%" alt="BEYOND CODE" />
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>BEYOND CODE</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="220" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
-
-<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace;">
+<p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: monospace; margin: 10px 0 8px 0;">
 Cinematic photography, visual media, minimalist hardware setups, and continuous personal growth outside of programming.
 </p>
 
@@ -69,16 +43,11 @@ Cinematic photography, visual media, minimalist hardware setups, and continuous 
 <br>
 
 <!-- ==================== SKILL SET GRID ==================== -->
-<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-radius: 6px; padding: 18px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+<table border="1" width="100%" style="background-color: #0d1117; border-color: #21262d; border-radius: 6px; padding: 20px 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 <tr>
 <td>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><h3>SKILL SET</h3></td>
-    <td align="right"><img src="assets/pixel-bar.svg" width="280" height="14" alt="pixel bar" /></td>
-  </tr>
-</table>
+<img src="assets/title-skills.svg" width="100%" alt="SKILL SET" />
 
 <div align="center">
 
